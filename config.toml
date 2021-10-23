@@ -1,3 +1,14 @@
-baseURL = 'http://example.org/'
+baseURL = 'https://kibaro.org/'
 languageCode = 'en-us'
-title = 'My New Hugo Site'
+title = 'Charte'
+theme = "book"
+enableGitInfo = false
+
+[params]
+# BookTheme = 'dark'
+# (Optional, default none) Set the path to a logo for the book. If the logo is
+# /static/logo.png then the path would be 'logo.png'
+# BookLogo = 'logo.png'
+BookSection = 'charte'
+BookSearch = false
+BookComments = false
