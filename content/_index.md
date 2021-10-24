@@ -1,8 +1,5 @@
 ---
-title: Introduction
+title: Kibaro
+subtitle: Osons inventer l'avenir
 type: "docs"
 ---
-
-# Charte de la transition Guinéenne
-
-## Texte intégral de la charte de la transition du 27 septembre 20221

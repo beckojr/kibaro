@@ -1,5 +1,0 @@
-+++
-title = "TITRE V: DES DISPOSITIONS TRANSITOIRES ET FINALES"
-bookCollapseSection = true
-weight = 50
-+++

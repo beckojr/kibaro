@@ -1,6 +1,6 @@
 baseURL = 'https://kibaro.org/'
 languageCode = 'en-us'
-title = 'Charte'
+title = 'Kibaro | Portail sur la Guinée'
 theme = "book"
 enableGitInfo = false
 
@@ -9,6 +9,6 @@ enableGitInfo = false
 # (Optional, default none) Set the path to a logo for the book. If the logo is
 # /static/logo.png then the path would be 'logo.png'
 # BookLogo = 'logo.png'
-BookSection = 'charte'
+BookSection = 'textes'
 BookSearch = false
 BookComments = false
