@@ -1,4 +1,4 @@
-baseURL = 'https://kibaro.org/'
+baseURL = 'https://kibaro-fatbn.ondigitalocean.app/'
 languageCode = 'en-us'
 title = 'Kibaro | Portail sur la Guinée'
 theme = "book"
