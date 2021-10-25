@@ -3,8 +3,6 @@ title = "PREAMBULE"
 weight = 1
 +++
 
-# PRÉAMBULE
-
 Nous, membres des forces de défense et de sécurité de la République de Guinée, regroupés au sein du Comité National du Rassemblement pour le Développement en concertation avec les forces vives de la Nation Guinéenne :
 
 - Inspirés par la volonté et l'engagement partagé de changement pour le bien-être et le vivre ensemble du peuple souverain de Guinée, ayant conduit à la prise effective du pouvoir par l'armée guinéenne, sous la direction du Comité National du Rassemblement pour le Développement, le 5 septembre 2021;
