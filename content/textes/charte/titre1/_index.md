@@ -1,6 +1,6 @@
 +++
 title = "TITRE I: DISPOSITIONS PRELIMINAIRES"
-bookCollapseSection = false
+bookCollapseSection = true
 weight = 10
 +++
 
