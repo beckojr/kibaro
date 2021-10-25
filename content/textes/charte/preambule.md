@@ -1,9 +1,9 @@
 +++
-title = "Preambule"
+title = "PREAMBULE"
 weight = 1
 +++
 
-## PREAMBULE
+# PRÉAMBULE
 
 Nous, membres des forces de défense et de sécurité de la République de Guinée, regroupés au sein du Comité National du Rassemblement pour le Développement en concertation avec les forces vives de la Nation Guinéenne :
 

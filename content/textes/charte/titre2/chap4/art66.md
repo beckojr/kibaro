@@ -1,10 +1,10 @@
 ---
 title: "Article 66"
-date: 2021-10-23T20:23:11+02:00
-draft: true
+type: "article"
+
 ---
 
-# Article 66
+
 
 Les Conseillers Nationaux jouissent de l'immunité parlementaire.
 

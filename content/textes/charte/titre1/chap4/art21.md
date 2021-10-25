@@ -1,10 +1,10 @@
 ---
 title: "Article 21"
-date: 2021-10-23T20:23:11+02:00
-draft: true
+type: "article"
+
 ---
 
-# Article 21
+
 
 Tout citoyen a droit au travail et à une juste rémunération.
 

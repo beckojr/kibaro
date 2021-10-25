@@ -1,10 +1,10 @@
 ---
 title: "Article 58"
-date: 2021-10-23T20:23:11+02:00
-draft: true
+type: "article"
+
 ---
 
-# Article 58
+
 
 Les membres du Conseil National de la Transition portent le titre de "Conseiller National".
 

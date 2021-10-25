@@ -1,6 +1,6 @@
 baseURL = 'kibaro-gn.org'
 languageCode = 'en-us'
-title = 'Kibaro | Portail sur la Guinée'
+title = 'KIBARO'
 theme = "book"
 enableGitInfo = false
 

@@ -1,10 +1,10 @@
 ---
 title: "Article 62"
-date: 2021-10-23T20:23:11+02:00
-draft: true
+type: "article"
+
 ---
 
-# Article 62
+
 
 Après la désignation de ses membres, le Conseil National de la Transition se réunit en session permanente pendant toute la durée de la Transition.
 

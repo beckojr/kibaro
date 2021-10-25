@@ -1,10 +1,10 @@
 ---
 title: "Article 47"
-date: 2021-10-23T20:23:11+02:00
-draft: true
+type: "article"
+
 ---
 
-# Article 47
+
 
 Avant son installation, le Président de la Transition préte to serment ci-dessous, devant la Cour Suprême:
 

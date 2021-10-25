@@ -1,10 +1,9 @@
 ---
 title: "Article 4"
-date: 2021-10-23T20:23:11+02:00
-draft: true
+type: "article"
 ---
 
-# Article 4
+
 
 L'emblème national est le chapeau tricolore, Rouge, Jaune et Vert de bandes verticales et de dimensions égales.
 

@@ -1,10 +1,10 @@
 ---
 title: "Article 79"
-date: 2021-10-23T20:23:11+02:00
-draft: true
+type: "article"
+
 ---
 
-# Article 79
+
 
 Les atributions de la Cour constitutionnelle sont transférées à le Cour suprime, durant la période de transition.
 
