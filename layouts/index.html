@@ -1,6 +1,6 @@
 {{ define "main" }}
 {{ with .Site.GetPage "section" "charte" }}
-<h1> {{ .Title | upper }}</h1>
+<h1> <a href="{{ .RelPermalink }}">{{ .Title | upper }}</a></h1>
 
 <p> {{ .Content }} </p>
 
