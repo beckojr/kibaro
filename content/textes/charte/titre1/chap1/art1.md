@@ -1,8 +1,9 @@
-+++
-title = "Article 1er"
-+++
+---
+title: "Article 1er"
+type: "article"
+---
 
-# Article 1er
+
 La présente Charte consacre les valeurs et principes ci-dessous qui doivent guider la transition, ses organes et l'ensemble des personnalités appelées à la conduire:
 
 - Le pardon et la réconciliation:

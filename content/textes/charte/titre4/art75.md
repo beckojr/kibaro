@@ -1,10 +1,10 @@
 ---
 title: "Article 75"
-date: 2021-10-23T20:23:11+02:00
-draft: true
+type: "article"
+
 ---
 
-# Article 75
+
 
 L'initiative de la révision de la Charte de la Transition appartient concurrerement au Président de la Transition et aux deux-tiers (2/3) des membres du Conseil National de la Transition.
 

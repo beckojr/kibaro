@@ -1,10 +1,10 @@
 ---
 title: "Article 38"
-date: 2021-10-23T20:23:11+02:00
-draft: true
+type: "article"
+
 ---
 
-# Article 38
+
 
 Le Président de la Transition est le Président du Comité National du Rassemblement pour le Développement et à ce titre, il :
 

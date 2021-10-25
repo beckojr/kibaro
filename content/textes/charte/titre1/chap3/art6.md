@@ -1,10 +1,9 @@
 ---
 title: "Article 6"
-date: 2021-10-23T20:23:11+02:00
-draft: true
+type: "article"
 ---
 
-# Article 6
+
 
 Les partis politiques concourent à l'expression du suffrage.
 

@@ -1,14 +1,14 @@
 ---
 title: "Article 2"
-draft: true
+type: "article"
 ---
 
-# Article 2
+
 
 Les missions de la Transition consacrées par la présente Charte sont entre autres :
 
 - La sauvegarde de l'intégrité du territoire national et la sécurité des personnes et de leurs biens;
-- La refondation de l'Etat pour bâtir des institutions fontos, crédibles et légitimes garantissant un Etat de droit, un processus démocratique inclusif, apaisé et dimable, gage d'un développement social, économique et cultural effectif;
+- La refondation de l'Etat pour bâtir des institutions fortes, crédibles et légitimes garantissant un Etat de droit, un processus démocratique inclusif, apaisé et durable, gage d'un développement social, économique et cultural effectif;
 - L'engagement de reformes majeures sur les plans économique, politique, électoral administratif;
 - Le renforcement de la cohésion nationale et la poursuite du processus de réconciliation nationale;
 - Le renforcement de l'indépendance de la justice et la lutte contre l'impunité;

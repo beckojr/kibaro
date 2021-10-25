@@ -1,10 +1,10 @@
 ---
 title: "Article 59"
-date: 2021-10-23T20:23:11+02:00
-draft: true
+type: "article"
+
 ---
 
-# Article 59
+
 
 Le Conseil National de la Transition adopte son reglement intérieur des sa première session à la majorité des deux tiers (2/3) de ses membres.
 
