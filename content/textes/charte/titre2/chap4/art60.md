@@ -1,10 +1,10 @@
 ---
 title: "Article 60"
-date: 2021-10-23T20:23:11+02:00
-draft: true
+type: "article"
+
 ---
 
-# Article 60
+
 
 Le Conseil National de la Transition est composé de quatre-vingt-un (81) membres choisis pour leur compétence et leur probité, répartis comme suit
 

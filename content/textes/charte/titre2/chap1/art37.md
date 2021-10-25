@@ -1,10 +1,10 @@
 ---
 title: "Article 37"
-date: 2021-10-23T20:23:11+02:00
-draft: true
+type: "article"
+
 ---
 
-# Article 37
+
 
 Le Comité National du Rassemblement pour le Développement est l'organe central de définition et d'oriemation stratégique de la politique économique, sociale, culturelle et de développement du pays.
 
