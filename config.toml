@@ -1,4 +1,4 @@
-baseURL = 'kibaro-gn.org'
+baseURL = 'https://kibaro-gn.org/'
 languageCode = 'en-us'
 title = 'Kibaro | Portail sur la Guinée'
 theme = "book"
