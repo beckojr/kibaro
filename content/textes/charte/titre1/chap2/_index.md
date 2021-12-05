@@ -2,6 +2,7 @@
 title = "CHAPITRE II: DES MISSIONS"
 bookCollapseSection = true
 weight = 12
+type = "leaf"
 +++
 
 # CHAPITRE II: DES MISSIONS

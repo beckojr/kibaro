@@ -1,0 +1,36 @@
+summary {
+    font-weight: bold;
+    margin: .2em .2em;
+    padding: .5em .2em ;
+    list-style-position: outside;
+}
+
+.leaf {
+    // border: solid 1px;
+    // border-radius: 5px;
+    margin-bottom: 2em;
+}
+
+.leaf > summary {
+    list-style-position: inside;
+    border-bottom: solid 0.1px;
+}
+
+.leaf-title {
+    margin-bottom: 2em;
+}
+
+// details[open] {
+//     padding: .5em;
+// }
+
+// details[open] summary {
+//     border-bottom: 1px solid #aaa;
+//     margin-bottom: .5em;
+// }
+
+// .s-title {
+//     text-decoration: none;
+//     border: 1px solid #aaa;
+//     cursor: pointer;
+// }

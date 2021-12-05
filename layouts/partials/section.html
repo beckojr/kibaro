@@ -1,0 +1,16 @@
+<details open>
+    <summary><a href="{{ .RelPermalink }}">{{ partial "docs/title.html" . }}</a></summary>
+
+    <ul class="regular">
+        {{ range .RegularPages }}
+        <li style="display: inline-block;">
+            <a href="{{ .RelPermalink }}">{{ .Title }}</a>
+        </li>
+        {{ end }}
+    </ul>
+    <ul>
+        {{ range .Sections }}
+        {{ partial "section" . }}
+        {{ end }}
+    </ul>
+</details>

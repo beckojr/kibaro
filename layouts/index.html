@@ -3,6 +3,9 @@
 <h1> <a href="{{ .RelPermalink }}">{{ .Title | upper }}</a></h1>
 
 <p> {{ .Content }} </p>
+{{ range .Sections }}
+{{ partial "section" . }}
+{{ end }}
 
 {{ end }}
 {{ end }}

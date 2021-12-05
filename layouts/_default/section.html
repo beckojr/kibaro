@@ -1,10 +1,13 @@
 {{ define "main" }}
 <main>
-    <h1>{{ .Title | upper }}</h1>
-    <ul class="contents">
-        {{ range .Pages }}
-        <li><a href="{{ .RelPermalink }}">{{ partial "docs/title.html" . }}</a></li>
-        {{ end }}
-    </ul>
+    {{ if eq .Params.type "leaf"}}
+    {{ partial "leaf" . }}
+    {{ else }}
+    <a href="{{ .RelPermalink }}" style="font-weight: bold;">{{ partial "docs/title.html" . }}</a>
+    {{ range .Sections }}
+    {{ partial "section" . }}
+    {{ end }}
+
+    {{ end }}
 </main>
 {{ end }}

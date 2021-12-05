@@ -2,6 +2,7 @@
 title = "SECTION UNIQUE: DU PREMIER MINISTRE DE LA TRANSITION"
 bookCollapseSection = true
 weight = 24
+type = "leaf"
 +++
 
 # SECTION UNIQUE: DU PREMIER MINISTRE DE LA TRANSITION

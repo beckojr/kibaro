@@ -2,6 +2,7 @@
 title = "TITRE V: DES DISPOSITIONS TRANSITOIRES ET FINALES"
 bookCollapseSection = true
 weight = 50
+type = "leaf"
 +++
 
 # TITRE V: DES DISPOSITIONS TRANSITOIRES ET FINALES

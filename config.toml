@@ -12,3 +12,5 @@ enableGitInfo = false
 BookSection = 'textes'
 BookSearch = false
 BookComments = false
+BookToC = true
+# BookMenuBundle = "/menu"
