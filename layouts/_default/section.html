@@ -3,7 +3,7 @@
     {{ if eq .Params.type "leaf"}}
     {{ partial "leaf" . }}
     {{ else }}
-    <a href="{{ .RelPermalink }}" style="font-weight: bold;">{{ partial "docs/title.html" . }}</a>
+    <h1><a href="{{ .RelPermalink }}" style="font-weight: bold;">{{ partial "docs/title.html" . }}</a></h1>
     {{ range .Sections }}
     {{ partial "section" . }}
     {{ end }}

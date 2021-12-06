@@ -1,6 +1,7 @@
 <div>
     <div class="leaf-title">
-        <div><a href="{{ .RelPermalink }}" style="font-weight: bold;">{{ partial "docs/title.html" .Parent }}</a></div>
+        <h1><a href="{{ .RelPermalink }}" style="font-weight: bold;">{{ partial "docs/title.html" .Parent }}</a></h1>
+        <h2><a href="{{ .RelPermalink }}" style="font-weight: bold;">{{ partial "docs/title.html" . }}</a></h2>
     </div>
     {{ range .RegularPages }}
     <details open class="leaf">
